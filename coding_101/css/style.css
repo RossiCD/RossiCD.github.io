@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  font-family: Futura;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+  font-family: palatino;
+}
+
+h3 {
+  color: yellow;
+  font-style: italic;
+  text-align: center;
+}
+
+.red {
+  color: red;
+  text-decoration: underline;
+}
+
+#orange {
+  color: orange;
+  text-shadow: 10px 10px orange;
+}
+
+a:hover {
+  font-weight: bold;
+  font-size: 40px;
+  color: red;
+}
+
+#lime {
+  background-color: lime;
+}
+
+#purple {
+  background-color: purple;
+}
